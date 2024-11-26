@@ -1,4 +1,4 @@
-[Here's a demonstration of the project]([https://nextjs.org/](https://youtu.be/csVVBEjwpIc)) 
+[Here's a demonstration of the project](https://nextjs.org/](https://youtu.be/csVVBEjwpIc) 
 
 ## Poker Manager
 
